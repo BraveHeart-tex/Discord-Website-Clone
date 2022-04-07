@@ -1,5 +1,4 @@
-# discord-website-clone
-Discord Website Clone
+# Discord Website Clone
 
 Discord Responsive Website Clone created with HTML5 and CSS3(Flexbox and Grid).
 
